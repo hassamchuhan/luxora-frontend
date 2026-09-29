@@ -55,7 +55,7 @@ Building Luxora helped solidify key core concepts in frontend development:
 ## 🌐 Live Demo
 
 You can view the live project hosted via GitHub Pages here:  
-👉! [View Live Demo Here](https://hassamchuhan.github.io/luxora-frontend)
+(https://hassamchuhan.github.io/luxora-frontend/)
 
 ---
 
