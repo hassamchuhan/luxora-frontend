@@ -31,6 +31,19 @@ A sleek, minimalist, and fully responsive e-commerce homepage concept designed a
 
 ---
 
+
+## 🌐 Live Demo
+
+You can view the live project hosted via GitHub Pages here:  
+👉 [View Live Demo Here](https://hassamchuhan.github.io/luxora-frontend/)
+## 👤 Author
+
+**Hassam Chuhan **  
+*   GitHub: [@hassamchuhan](https://github.com/hassamchuhan)
+
+
+
+
 ## 📂 Project Structure
 
 ```text
